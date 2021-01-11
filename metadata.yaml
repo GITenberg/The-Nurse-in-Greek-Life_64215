@@ -1,11 +1,16 @@
 _repo: The-Nurse-in-Greek-Life_64215
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64215-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorman, Mary Rosaria
     gutenberg_agent_id: '52803'
     url: http://www.gutenberg.org/2009/agents/52803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64215#The-Nurse-in-Greek-Life
 gutenberg_issued: '2021-01-04'
 gutenberg_type: Text
 identifiers:
